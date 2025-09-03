@@ -7,7 +7,7 @@
 - 💼 Some of my projects:  
   👉 [Task Manager](https://github.com/sarmadarshad321/Task-Manager)  
 - 💬 Ask me about: JavaScript, React.js, Firebase  
-- 📫 Reach me at: syedsarmadarshad321@gmail.com  
+- 📫 Reach me at: syedsarmadarshad4903@gmail.com  
 
 ---
 
