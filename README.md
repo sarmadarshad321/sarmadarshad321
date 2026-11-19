@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Syed Sarmad Arshad Hussaini</h1>
 
-<h3 align="center">MERN Stack Developer 
+<h3 align="center">MERN Stack Developer</h3>
 
 ---
 
@@ -13,17 +12,15 @@
 
 ---
 
-- 🌱 I'm currently learning: <i>MERN Stack Development and Advanced Backend Concepts</i>
+- 🌱 I'm currently learning: <i>Advanced Backend Concepts and Scalable Application Design</i>
 
 - 💼 Tech Stack: <i>MongoDB, Express.js, React.js, Node.js, PostgreSQL</i>
 
-- 💼 Check out my portfolio at:
-
-  👉 [sarmadarshad-portfolio](https://portfolio-45cb.vercel.app/)
+- 🌐 Check out my portfolio: 👉 [sarmadarshad-portfolio](https://portfolio-45cb.vercel.app/)
 
 - 💬 Ask me about: <i>JavaScript, React.js, Node.js, Express.js, REST APIs, MongoDB, PostgreSQL</i>
 
-- 📫 Reach me at: <i>syedsarmadarshad4903@gmail.com</i>
+- 📫 Reach me at: [syedsarmadarshad4903@gmail.com](mailto:syedsarmadarshad4903@gmail.com)
 
 ---
 
