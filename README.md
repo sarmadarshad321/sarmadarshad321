@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Syed Sarmad Arshad Hussaini</h1>
 
-<h3 align="center">MERN Stack Developer | Full Stack Developer</h3>
+<h3 align="center">MERN Stack Developer 
 
 ---
 
