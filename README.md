@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Sarmad Arshad Hussaini</h1>
 
-<h3 align="center">MERN Stack Developer</h3>
-
 ---
 
 <p>
